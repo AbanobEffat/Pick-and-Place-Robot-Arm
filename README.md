@@ -1,3 +1,9 @@
+
+
+Note if the pictures not viewed correctly download .docx file
+
+
+
 ***Kuka KR210 Pick and Place Project ***
 
 This project was simulated by kuka KR210 which has 6 degree of freedom
